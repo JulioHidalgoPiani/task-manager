@@ -27,7 +27,7 @@ Before running the project, ensure you have the following prerequisites installe
   - `jackson-databind-2.18.1.jar`
   - `jackson-annotations-2.18.1.jar`
 
-  These libraries should be placed in the `libs/` folder.
+  These libraries should be placed in the `libs/` folder create in the root of the project.
 
 ## Installation
 
