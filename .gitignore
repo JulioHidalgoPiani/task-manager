@@ -30,4 +30,5 @@ bin/
 .DS_Store
 
 # Excludind Jar files
-/libs/*.jar
+libs/*
+#/libs/*.jar
